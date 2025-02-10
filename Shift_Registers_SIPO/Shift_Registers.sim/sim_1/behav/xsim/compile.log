@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/muqdas_satti/Desktop/Verilog/Shift_Registers/Shift_Registers.srcs/sources_1/new/serialin_serialout.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module serialin_serialout
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/muqdas_satti/Desktop/Verilog/Shift_Registers/Shift_Registers.srcs/sim_1/new/serialin_serailout_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_serialin_serialout

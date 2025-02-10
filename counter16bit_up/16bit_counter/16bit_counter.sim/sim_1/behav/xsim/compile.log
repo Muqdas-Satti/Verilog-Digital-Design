@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/muqdas_satti/Desktop/Verilog/counter16/16bit_counter/16bit_counter.srcs/sources_1/new/counter_16bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_16bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/muqdas_satti/Desktop/Verilog/counter16/16bit_counter/16bit_counter.srcs/sim_1/new/counter_16bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module counter_16bit_tb

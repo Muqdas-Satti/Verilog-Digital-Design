@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_serialin_serialout_behav/xsimk -simmode gui -wdb tb_serialin_serialout_behav.wdb -simrunnum 0 -socket 57209
+Design successfully loaded
+Design Loading Memory Usage: 32992 KB (Peak: 33584 KB)
+Design Loading CPU Usage: 50 ms
